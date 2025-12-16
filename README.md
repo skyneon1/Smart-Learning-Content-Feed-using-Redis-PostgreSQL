@@ -2,9 +2,7 @@
 
 ## Overview
 
-The **Smart Learning Content Feed** is an advanced, full-stack adaptive learning platform designed to curate and personalize educational content for users in real-time. By analyzing granular user interaction metrics—such as scroll depth and time spent on articles—the system builds a dynamic interest profile for each user, ensuring that the most relevant and engaging content surfaces to the top of their feed.
-
-This project showcases a sophisticated implementation of a recommendation engine that balances historical user preferences with immediate engagement signals. It bridges the gap between static content delivery and intelligent, responsive learning environments.
+A high-performance, adaptive content feed engine built with **FastAPI**, **Redis**, and **PostgreSQL**. The system implements a real-time ranking algorithm using Redis Sorted Sets to personalize content based on user interaction metrics (scroll depth, time spent). It features a generic interaction tracking system, WebSocket-based real-time analytics dashboard, and a responsive **React/MUI** frontend, all containerized via Docker for scalable deployment.
 
 ## Key Features
 
