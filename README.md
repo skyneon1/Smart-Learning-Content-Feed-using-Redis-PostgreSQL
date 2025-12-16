@@ -32,7 +32,7 @@ A high-performance, adaptive content feed engine built with **FastAPI**, **Redis
 
 1.  **Clone the Repository**
     ```bash
-    git clone <https://github.com/skyneon1/Smart-Learning-Content-Feed-using-Redis-PostgreSQL.git>
+    git clone https://github.com/skyneon1/Smart-Learning-Content-Feed-using-Redis-PostgreSQL.git
     cd smart-learning-content-feed
     ```
 
